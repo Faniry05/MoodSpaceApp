@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    /* Cible moderne pour Node 18+ sur Vercel */
+    "target": "ES2021",
+    "module": "ESNext",
+    "moduleResolution": "node",
+
+    /* Gestion des fichiers et imports */
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+
+    /* Pas d’output direct, Vercel gère le transpile */
+    "noEmit": true,
+    "skipLibCheck": true,
+
+    /* Vérifications de qualité */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"]
+}
