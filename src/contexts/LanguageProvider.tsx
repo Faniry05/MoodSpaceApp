@@ -191,7 +191,7 @@ export const translations = {
     'pomodoro.completedNumber': 'terminé aujourd\'hui',
 
     //Global Footer
-    'global.footer': 'Beta version • Copyright © 2025 MoodSpace • Créé avec ❤️ par Elvis Sylvano',
+    'global.footer': 'Beta version • Copyright © 2025 MoodSpace • Créé avec ❤️',
   },
   en: {
     // Landing

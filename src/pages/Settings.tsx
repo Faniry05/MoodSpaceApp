@@ -268,16 +268,16 @@ export default function Settings() {
                 <ul className="flex flex-col gap-4 font-semibold text-muted-foreground">
                   <li>
                     <a href="www.linkedin.com/in/elvis-sylvano" className="flex text-xs md:text-sm w-fit items-center gap-2">
-                      <Linkedin size={20}/> Elvis Sylvano
+                      <Linkedin size={20}/> Faniry
                     </a>
                   </li>
                   <li>
                     <a href="mailto:elvissy04@gmail.com" className="flex text-xs md:text-sm w-fit items-center gap-2">
-                      <Mail size={20}/> elvissy04@gmail.com
+                      <Mail size={20}/> randriamanantenaranja@gmail.com
                     </a>
                   </li>
                   <li className="flex text-xs md:text-sm w-fit items-center gap-2">
-                      <Phone size={20}/> +261 34 67 658 16
+                      <Phone size={20}/> +261 34 19 482 17
                   </li>
                 </ul>
                 <img src="/logo.png" alt="logo" width="40%"/>
