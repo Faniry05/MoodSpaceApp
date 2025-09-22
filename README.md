@@ -2,7 +2,7 @@
 
 L'application MoodSpace est une plateforme de bien-être qui permet d'extérioriser ses sentiments. Elle offre un environnement simple et stimulant pour explorer les émotions, rester organisé, et libérer la créativité au quotidien.
 
-### ✨ [Live Demo](https://moodsspace.vercel.app)
+### ✨ [Live Demo](https://mood-space-app.vercel.app)
 
 ---
 
